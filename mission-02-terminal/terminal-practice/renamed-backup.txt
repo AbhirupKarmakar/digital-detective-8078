@@ -1,0 +1,2 @@
+First line for Terminal practice.
+Second line was added without removing the first.
