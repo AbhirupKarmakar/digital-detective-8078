@@ -22,7 +22,7 @@ The objective of this project is to develop my understanding of computer fundame
 | [Mission 0](mission-00-setup/README.md) | GitHub Workspace Setup | Completed |
 | [Mission 1](mission-01-computer-basics/README.md) | Know Your Computer | Completed |
 | [Mission 2](mission-02-terminal/README.md) | Terminal | Completed |
-| [Mission 3](mission-03-operating-system/README.md) | Operating System | Not Started |
+| [Mission 3](mission-03-operating-system/README.md) | Operating System | Completed |
 | [Mission 4](mission-04-programs/README.md) | Programs | Not Started |
 | [Mission 5](mission-05-numbers-data/README.md) | Numbers and Data | Not Started |
 | [Mission 6](mission-06-git-github/README.md) | Git and GitHub | Not Started |
@@ -56,4 +56,4 @@ I will complete each mission in order, document my understanding, and keep evide
 
 ## Completion Summary
 
-Mission 0 – GitHub Workspace Setup, Mission 1 – Know Your Computer, and Mission 2 – Terminal have been completed and pushed to GitHub. I will update this summary as I complete and commit the remaining missions.
+Mission 0 – GitHub Workspace Setup, Mission 1 – Know Your Computer, Mission 2 – Terminal, and Mission 3 – Operating System have been completed and pushed to GitHub. I will update this summary as I complete and commit the remaining missions.
