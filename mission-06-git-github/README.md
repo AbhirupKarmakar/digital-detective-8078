@@ -1,14 +1,5 @@
 # Mission 6 — Git and GitHub
 
-## 1. Mission title
-
-Mission 6 — Git and GitHub
-
-## 2. Task / objective
-
-Learn Git commands, make a branch, create a Pull Request, and explain how they work.
-
-## 3. Work completed
 
 ### Task 6.1 — Basic Git workflow
 
