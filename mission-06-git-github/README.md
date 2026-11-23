@@ -47,6 +47,7 @@ I followed the GitHub steps to create a branch and Pull Request.
 - This README has my Git notes.
 - The root README has the My Learning section.
 - Pull Request #1 was merged into main.
+- evidence/README.md has links to the branch, commit, and Pull Request.
 
 ## 8. Git command glossary
 
@@ -67,5 +68,7 @@ I followed the GitHub steps to create a branch and Pull Request.
 Commit message: Complete Git and GitHub collaboration mission
 
 Correction commit: Restore Mission 6 workflow notes
+
+Evidence commit: Add Mission 6 GitHub evidence
 
 The Mission 6 work was pushed to GitHub.
