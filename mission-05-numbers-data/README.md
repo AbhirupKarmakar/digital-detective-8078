@@ -76,3 +76,42 @@ A₁₆ = 10₁₀
 - Character outside basic ASCII: `₹`
 
 A computer needs an encoding standard to assign numbers to characters so it can store and display text consistently. UTF-8 supports characters such as `₹` that basic ASCII does not include.
+
+## 1. Task / objective
+
+Convert numbers between decimal, binary and hexadecimal, check them with Python, make a converter, and learn about text encoding.
+
+## 2. Work completed
+
+I completed Tasks 5.1–5.4 above and made the number_converter.py program.
+
+## 3. Commands / tools used
+
+- Python interactive environment — checked the number conversions.
+- python3 number_converter.py — ran the converter.
+- input() and int() — received the number and changed it to an integer.
+- bin() and hex() — converted the number to binary and hexadecimal.
+- Visual Studio Code — edited the README and Python file.
+
+## 4. My understanding
+
+Binary uses 0 and 1. Hexadecimal uses base 16. Python's bin() and hex() functions help convert numbers. Text encoding gives characters numbers so a computer can store and display them.
+
+## 5. Difficulties faced
+
+I was confused about where to write the answers for each task.
+
+## 6. How I resolved them
+
+I kept the answers and converter in the Mission 5 folder and used Python to check the conversions.
+
+## 7. Evidence / files
+
+- README.md has the calculations, Python checks and text-encoding notes.
+- number_converter.py is the converter program.
+
+## 8. Commit details
+
+Commit message: Build number converter and practise data representation
+
+The Mission 5 work was pushed to GitHub.

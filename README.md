@@ -15,6 +15,14 @@ This repository contains my learning activities and practical work completed as 
 
 The objective of this project is to develop my understanding of computer fundamentals, operating systems, terminal commands, Python programming, number systems, Git, GitHub, and computer networking.
 
+## Topics Explored
+
+- Computer hardware, software and IPOS
+- Terminal commands, operating systems and file permissions
+- Python programs, number systems and text encoding
+- Git, GitHub, branches and Pull Requests
+- Computer networks, DNS and website communication
+
 ## Mission Index
 
 | Mission | Topic | Status |
@@ -27,7 +35,7 @@ The objective of this project is to develop my understanding of computer fundame
 | [Mission 5](mission-05-numbers-data/README.md) | Numbers and Data | Completed |
 | [Mission 6](mission-06-git-github/README.md) | Git and GitHub | Completed |
 | [Mission 7](mission-07-networking/README.md) | Networking | Completed |
-| [Mission 8](mission-08-final-report/README.md) | Final Report | Not Started |
+| [Mission 8](mission-08-final-report/README.md) | Final Report | Completed |
 
 ## Repository Structure
 
@@ -50,13 +58,22 @@ The objective of this project is to develop my understanding of computer fundame
 - Terminal
 - Visual Studio Code
 
+## Run the Number Converter
+
+From the repository folder, open the Mission 5 folder and run:
+
+```bash
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
 ## Learning Approach
 
 I will complete each mission in order, document my understanding, and keep evidence of my work. I will complete and commit each mission separately before starting the next one.
 
 ## Completion Summary
 
-Missions 0–7 have been completed and pushed to GitHub. Mission 8 is left to complete.
+Missions 0–8 have been completed and pushed to GitHub. The repository URL still needs to be submitted through the instructor's form.
 
 ## My Learning
 
