@@ -1,0 +1,9 @@
+Mission 7 network checks
+
+Command: ping -c 4 example.com
+Result: 4 packets sent, 4 received, 0% packet loss.
+
+Command: nslookup example.com
+Result: example.com resolved to 104.20.23.154 and 172.66.147.243.
+
+Only the example website's public addresses are recorded. My own IP address and Wi-Fi details are not included.
